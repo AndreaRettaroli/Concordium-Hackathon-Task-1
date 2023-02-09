@@ -48,6 +48,6 @@
   ![wallet](https://github.com/AndreaRettaroli/Concordium-Hackathon-Task-1/blob/master/img/import-account.PNG)
   in my case i overwrite old account as shown in the following image.
 
-## Mainnet Wallet addresses
+## Mainnet Wallet address
 
 Concordium address: 3mbLgjjYf6YKPiNt7jyyrAKv4xTF46kKMceEmuC8BLjJDGPMsS
